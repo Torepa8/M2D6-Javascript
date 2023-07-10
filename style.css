@@ -1,0 +1,60 @@
+.textcenter{
+    text-align: center;
+}
+
+img{
+    height: 100px;
+    width: auto;
+}
+
+.address{
+    text-align: center;   
+}
+
+.amazLink{
+    height: auto;
+}
+
+.addClass{
+    background-color: aquamarine;
+}
+
+.nasconditi{
+    visibility: hidden;
+}
+
+.resuscita{
+    visibility: visible;
+}
+
+.price{
+    color:black;
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
+
+.pink{
+    color: pink;
+}
+
+.green{
+    color: green;
+}
+
+.orange{
+    color: orange;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.grey{
+    color: grey;
+}
